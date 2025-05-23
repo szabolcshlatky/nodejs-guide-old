@@ -1,0 +1,47 @@
+{
+  "name": "nodejs-guide",
+  "version": "1.0.0",
+  "description": "Backend JS guide",
+  "main": "playground.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs-guide"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Coding Sable",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/body-parser": "^1.19.2",
+    "@types/compression": "^1.7.3",
+    "@types/cookie-parser": "^1.4.4",
+    "@types/cors": "^2.8.14",
+    "@types/express": "^4.17.17",
+    "@types/lodash": "^4.14.198",
+    "@types/node": "^20.5.9",
+    "body-parser": "^1.20.2",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "core-js": "^3.32.2",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "inquirer": "^9.2.10",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
+    "lodash.get": "^4.4.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.1.0"
+  }
+}
